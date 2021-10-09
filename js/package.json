@@ -10,6 +10,7 @@
   "engines": {
     "node": ">=14.17"
   },
+  "homepage": "http://www.mentl.ai/",
   "scripts": {
     "bootstrap": "lerna link && lerna bootstrap",
     "build": "lerna run build",
